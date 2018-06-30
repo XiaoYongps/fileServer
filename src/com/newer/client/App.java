@@ -1,11 +1,14 @@
 package com.newer.client;
 
 /**
- * ¿Í»§¶Ë
+ *æœåŠ¡ç«¯
  * 
- * @authorĞ¤·¼ÎÄ 
+ * @authorè‚–èŠ³æ–‡ 
  *
  */
 public class App {
 
+	public static void main(String[] args) {
+		System.out.println("aaa");
+	}
 }
