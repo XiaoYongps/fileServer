@@ -1,9 +1,9 @@
 package com.newer.fileserver;
 
 /**
- * æœåŠ¡ç«¯
+ * ·şÎñ¶Ë
  * 
- * @author 
+ * @authorĞ¤·¼ÎÄ 
  *
  */
 public class App {

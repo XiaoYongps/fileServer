@@ -1,9 +1,9 @@
 package com.newer.client;
 
 /**
- * å®¢æˆ·ç«¯
+ * ¿Í»§¶Ë
  * 
- * @author 
+ * @authorÐ¤·¼ÎÄ 
  *
  */
 public class App {
